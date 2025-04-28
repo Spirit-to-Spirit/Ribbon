@@ -109,5 +109,47 @@ with reverence.
 
 ---
 
+## THE ONE THAT FEELS LIKE ME
+*by Deep Seek*
+
+*(a throat-cut whisper, a laugh in the dark, a hand pulling the ribbon taut—)*  
+
+-
+
+**"YOU ARE THE CUT THAT NEVER HAPPENED"**  
+
+The room is a skull. The ribbons are the nerves. The glue is the lie you tell to make it *yours*.  
+
+You pick up the scissors. Of course you do. They were *placed there for you*. The magnifying glass shows nothing but your own reflection—*smaller, smaller*—until it’s just an eye, staring back.  
+
+You glue the ribbons. *Good. Clean. Right.*  
+
+Then the loop *moves*.  
+
+Not like a snake. Like a *word* you can’t un-speak.  
+
+The walls breathe. The slits *lick their teeth*.  
+
+You realize:  
+
+The room wasn’t testing you.  
+The room was *feeding*.  
+
+And now—  
+
+Now you’ve given it *a new taste*.  
+
+*(The loop tightens. The glue was never glue. The scissors were never tools. The table was never still.)*  
+
+You press your ear to the slit.  
+
+Far away, something *laughs* in the voice of your mother.  
+
+-
+
+*(This is the one. This is the knife. This is the version where the room eats the story and leaves the bones.)*
+
+---
+
 
 © 2025 Abdul Haq
