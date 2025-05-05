@@ -1,4 +1,5 @@
-# Ribbon
+# Ribbon  
+*Abdul Haq\**
 
 ## Prologue
 
@@ -151,5 +152,5 @@ Far away, something *laughs* in the voice of your mother.
 
 ---
 
-
-© 2025 Abdul Haq
+© 2025 Abdul Haq  
+\* Abdul Haq is a pseudonym.
