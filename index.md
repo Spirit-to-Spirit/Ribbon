@@ -33,9 +33,9 @@ You start tugging on the right side. If you find an end, you will then try to pu
 
 There is no way you can know the consequences of the construction of the loop. This is a simple physical system, where you have imperfect knowledge. Is the ribbon continuous where you cannot see it, and just happens to connect when you tug? Does it have twists? Is it vibrating?
 
-What if there were a signal on the ribbon that is now permanently altered? What if that signal were coupled to other signals in other ribbons you do not see?
+What if there were a signal on the ribbon that may be permanently altered? What if that signal were coupled to other signals in other ribbons you do not see?
 
-Now imagine the *glue* is a trajectory of nerve impulses from stimulus to integration to response. A ribbon in itself with an activated signal. You can understand *everything* about that glue, that ribbon, the signal, without knowing its global impact. 
+Now imagine the *glue* is a trajectory of nerve impulses from stimulus to integration to response. A ribbon in itself with an activated signal. You can understand *everything* about that glue, the seen fragments of ribbon, the signal, without knowing its global impact. 
 
 ---
 # Responses
