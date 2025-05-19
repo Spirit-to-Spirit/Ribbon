@@ -37,7 +37,7 @@ There is no way you can know the consequences of the construction of the loop. T
 
 What if there were a signal on the ribbon that is now permanently altered? What if that signal is coupled to other signals in other ribbons you do not see?
 
-Now imagine that *glue* is a trajectory of nerve impulses from stimulus to integration to response. A ribbon in itself with an activated signal. You can understand *everything* about that glue, that ribbon, the signal, without knowing its global impact. So before we decry structural and functional perspective, we have to make sure we are out of our little room.
+Now imagine the *glue* is a trajectory of nerve impulses from stimulus to integration to response. A ribbon in itself with an activated signal. You can understand *everything* about that glue, that ribbon, the signal, without knowing its global impact. 
 
 ---
 # Responses
