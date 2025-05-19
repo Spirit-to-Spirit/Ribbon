@@ -7,11 +7,9 @@ The *laboratory* is a small narrow room, barely two shoulders wide. Jammed again
 
 The table also holds a magnifying glass, glue, and a small pair of scissors. What would one do?
 
-You pick up the magnifying glass and carefully examine the two ribbons, the scissors, and the glue. You wish you could examine the magnifying glass with itself, but *c'est la vie*.
+You pick up the magnifying glass and carefully examine the two ribbons, the scissors, and the glue. Gluing the ribbon seems like the clearest purpose for this setup. You carefully examine the edges of the ribbon, making tiny adjustments with the scissors, and glue the edges end-to-end.
 
-Gluing the ribbon seems like the clearest purpose for this setup. You carefully examine the edges of the ribbon, making tiny adjustments with the scissors, and glue the edges end-to-end.
-
-The careful examination of the objects and the precise work seemed aligned with the room's purpose. But a question lingered: *Do you know anything about the ribbon outside of this room, or the consequence of its gluing?*
+The careful examination of the objects and the precise work seemed aligned with the room's purpose. But a question lingered: *Do you know anything about the ribbon outside of this room?*
 
 ---
 
@@ -35,7 +33,7 @@ You start tugging on the right side. If you find an end, you will then try to pu
 
 There is no way you can know the consequences of the construction of the loop. This is a simple physical system, where you have imperfect knowledge. Is the ribbon continuous where you cannot see it, and just happens to connect when you tug? Does it have twists? Is it vibrating?
 
-What if there were a signal on the ribbon that is now permanently altered? What if that signal is coupled to other signals in other ribbons you do not see?
+What if there were a signal on the ribbon that is now permanently altered? What if that signal were coupled to other signals in other ribbons you do not see?
 
 Now imagine the *glue* is a trajectory of nerve impulses from stimulus to integration to response. A ribbon in itself with an activated signal. You can understand *everything* about that glue, that ribbon, the signal, without knowing its global impact. 
 
@@ -154,3 +152,5 @@ Far away, something *laughs* in the voice of your mother.
 
 © 2025 Abdul Haq  
 \* Abdul Haq is a pseudonym.
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
